@@ -1,0 +1,19 @@
+<!-- <hello name="{{ name }}"></hello> -->
+
+<nav class="navbar navbar-light bg-light">
+  <!-- <a class="navbar-brand" href="#">
+    <img src="/docs/5.1/assets/brand/bootstrap-logo.svg" alt=""
+  /></a> -->
+  <form class="container-fluid justify-content-end">
+    <button
+      type="button"
+      class="btn btn-outline-success me-2"
+      (click)="shuffle()"
+    >
+      shuffle
+    </button>
+  </form>
+</nav>
+<p>
+  <lib-jp-ng-flash-cards [flashCards]="flashcardData"></lib-jp-ng-flash-cards>
+</p>

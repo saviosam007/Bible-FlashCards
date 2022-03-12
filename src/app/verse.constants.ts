@@ -1,0 +1,18 @@
+export const verses = [
+  'galatians+5:22-23',
+  '2corinthians+5:17',
+  'Rom+8:1-2',
+  'John14:2-3',
+  'john4:14',
+  'phil1:6',
+  'phil4:6-7',
+  'luke19:10',
+  '1Peter3:15',
+  'Eph2:8-10',
+  'psalm23:1',
+  'psalm23:2',
+  'psalm23:3',
+  'psalm23:4',
+  'psalm23:5',
+  'psalm23:6',
+];
