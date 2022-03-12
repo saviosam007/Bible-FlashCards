@@ -19,3 +19,7 @@ p {
   display: block !important;
   width: 100%;
 }
+:host ::ng-deep .flash_title {
+  font-size: 32px;
+  font-family: 'Times New Roman', Times, serif;
+}
